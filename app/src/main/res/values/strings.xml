@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ArduinoBand</string>
+    <string name="Dispositivos">Dispositivos Disponibles:</string>
+    <string name="btnBuscar">Buscar Dispositivos</string>
+    <string name="txtBt">Bluetooth</string>
+    <string name="none">No Hay Dispositivos</string>
+    <string name="estado">Estado: .........</string>
+    <string name="sonar">Sonar</string>
+    <string name="desvincular">Desvincular</string>
+    <string name="signal">Señal</string>
+    <string name="tvSignal">0</string>
+    <string name="ScanMode">Modo Escaner</string>
+    <string name="DistAprox">Distancia Aproximada</string>
+    <string name="mts">5 Mts</string>
+
+</resources>
