@@ -7,3 +7,4 @@ enciende un vibrador.
 La segunda opcion es el modo escaner, el cual es un escaner de señal RSSI solo al dispositivo con el 
 que se hizo el PAIRED al inicial la app, y por medio de un SeekBar se configura una alerta a travez
 del Notification Manager dependiendo del valor asignado en el SeekBar. 
+El Archivo ArduinoBT.ino contiene la programacion en la placa arduino
